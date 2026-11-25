@@ -2,7 +2,7 @@
 
 Full stack developer from Argentina and Software Engineering student. I build complete products, from the data model and security to the UI, AI integration and deployment.
 
-🔭 **Open to remote roles** in software development or databases · 🌐 Spanish (native) · English (fluent) · Portuguese · Russian
+ **Open to remote roles** in software development or databases · 🌐 Spanish (native) · English (fluent) · Portuguese · Russian
 
 ---
 
