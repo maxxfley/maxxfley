@@ -1,4 +1,4 @@
-### Hi, I'm Máximo 👋
+### Hi, I'm Máximo 
 
 Full stack developer from Argentina and Software Engineering student. I build complete products, from the data model and security to the UI, AI integration and deployment.
 
